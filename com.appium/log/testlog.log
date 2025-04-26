@@ -1,0 +1,112 @@
+2025-04-27 00:10:16,226 - Appium -INFO - Running TestCase 01 
+2025-04-27 00:10:16,259 - Appium -INFO - Adding Two Number
+2025-04-27 00:10:19,646 - Appium -INFO - Validation of result
+2025-04-27 00:10:19,654 - Appium -INFO - Addition TestCase Passed
+2025-04-27 00:10:19,668 - Appium -INFO - Running TestCase 02 
+2025-04-27 00:10:19,678 - Appium -INFO - Subtraction of Two Number
+2025-04-27 00:10:22,795 - Appium -INFO - Validation of result
+2025-04-27 00:10:22,796 - Appium -INFO - Subtraction TestCase Passed
+2025-04-27 00:10:22,809 - Appium -INFO - Running TestCase 03 
+2025-04-27 00:10:22,816 - Appium -INFO - Muliplication of Two Number
+2025-04-27 00:10:26,259 - Appium -INFO - Validation of result
+2025-04-27 00:10:26,260 - Appium -INFO - Multiplication TestCase Passed
+2025-04-27 00:10:26,282 - Appium -INFO - Running TestCase 04
+2025-04-27 00:10:26,289 - Appium -INFO - Muliplication of Two Number
+2025-04-27 00:10:30,331 - Appium -INFO - Validation of result
+2025-04-27 00:10:30,332 - Appium -INFO - Division TestCase Passed
+2025-04-27 01:00:31,624 - Appium -INFO - Running TestCase 01 
+2025-04-27 01:00:31,666 - Appium -INFO - Adding Two Number
+2025-04-27 01:00:34,959 - Appium -INFO - Validation of result
+2025-04-27 01:00:34,973 - Appium -INFO - Addition TestCase Passed
+2025-04-27 01:00:34,993 - Appium -INFO - Running TestCase 02 
+2025-04-27 01:00:35,002 - Appium -INFO - Subtraction of Two Number
+2025-04-27 01:00:37,995 - Appium -INFO - Validation of result
+2025-04-27 01:00:37,997 - Appium -INFO - Subtraction TestCase Passed
+2025-04-27 01:00:38,012 - Appium -INFO - Running TestCase 03 
+2025-04-27 01:00:38,021 - Appium -INFO - Muliplication of Two Number
+2025-04-27 01:00:41,567 - Appium -INFO - Validation of result
+2025-04-27 01:00:41,568 - Appium -INFO - Multiplication TestCase Passed
+2025-04-27 01:00:41,585 - Appium -INFO - Running TestCase 04
+2025-04-27 01:00:41,595 - Appium -INFO - Muliplication of Two Number
+2025-04-27 01:00:45,124 - Appium -INFO - Validation of result
+2025-04-27 01:00:45,125 - Appium -INFO - Division TestCase Passed
+2025-04-27 01:14:17,119 - Appium -INFO - Running TestCase 01 
+2025-04-27 01:14:17,249 - Appium -INFO - Adding Two Number
+2025-04-27 01:14:20,799 - Appium -INFO - Validation of result
+2025-04-27 01:14:20,808 - Appium -INFO - Addition TestCase Passed
+2025-04-27 01:14:20,828 - Appium -INFO - Running TestCase 02 
+2025-04-27 01:14:20,838 - Appium -INFO - Subtraction of Two Number
+2025-04-27 01:14:23,902 - Appium -INFO - Validation of result
+2025-04-27 01:14:23,904 - Appium -INFO - Subtraction TestCase Passed
+2025-04-27 01:14:23,919 - Appium -INFO - Running TestCase 03 
+2025-04-27 01:14:23,928 - Appium -INFO - Muliplication of Two Number
+2025-04-27 01:14:27,680 - Appium -INFO - Validation of result
+2025-04-27 01:14:27,681 - Appium -INFO - Multiplication TestCase Passed
+2025-04-27 01:14:27,694 - Appium -INFO - Running TestCase 04
+2025-04-27 01:14:27,701 - Appium -INFO - Muliplication of Two Number
+2025-04-27 01:14:31,168 - Appium -INFO - Validation of result
+2025-04-27 01:14:31,169 - Appium -INFO - Division TestCase Passed
+2025-04-27 01:31:27,879 - Appium -INFO - Running TestCase 01 
+2025-04-27 01:31:27,918 - Appium -INFO - Adding Two Number
+2025-04-27 01:31:31,156 - Appium -INFO - Validation of result
+2025-04-27 01:31:31,172 - Appium -INFO - Addition TestCase Passed
+2025-04-27 01:31:31,191 - Appium -INFO - Running TestCase 02 
+2025-04-27 01:31:31,200 - Appium -INFO - Subtraction of Two Number
+2025-04-27 01:31:34,248 - Appium -INFO - Validation of result
+2025-04-27 01:31:34,249 - Appium -INFO - Subtraction TestCase Passed
+2025-04-27 01:31:34,265 - Appium -INFO - Running TestCase 03 
+2025-04-27 01:31:34,280 - Appium -INFO - Muliplication of Two Number
+2025-04-27 01:31:37,790 - Appium -INFO - Validation of result
+2025-04-27 01:31:37,791 - Appium -INFO - Multiplication TestCase Passed
+2025-04-27 01:31:37,806 - Appium -INFO - Running TestCase 04
+2025-04-27 01:31:37,813 - Appium -INFO - Muliplication of Two Number
+2025-04-27 01:31:41,238 - Appium -INFO - Validation of result
+2025-04-27 01:31:41,239 - Appium -INFO - Division TestCase Passed
+2025-04-27 01:35:14,278 - Appium -INFO - Running TestCase 01 
+2025-04-27 01:35:14,326 - Appium -INFO - Adding Two Number
+2025-04-27 01:35:17,640 - Appium -INFO - Validation of result
+2025-04-27 01:35:17,649 - Appium -INFO - Addition TestCase Passed
+2025-04-27 01:35:17,673 - Appium -INFO - Running TestCase 02 
+2025-04-27 01:35:17,687 - Appium -INFO - Subtraction of Two Number
+2025-04-27 01:35:20,739 - Appium -INFO - Validation of result
+2025-04-27 01:35:20,741 - Appium -INFO - Subtraction TestCase Passed
+2025-04-27 01:35:20,755 - Appium -INFO - Running TestCase 03 
+2025-04-27 01:35:20,764 - Appium -INFO - Muliplication of Two Number
+2025-04-27 01:35:24,290 - Appium -INFO - Validation of result
+2025-04-27 01:35:24,291 - Appium -INFO - Multiplication TestCase Passed
+2025-04-27 01:35:24,330 - Appium -INFO - Running TestCase 04
+2025-04-27 01:35:24,335 - Appium -INFO - Muliplication of Two Number
+2025-04-27 01:35:27,740 - Appium -INFO - Validation of result
+2025-04-27 01:35:27,741 - Appium -INFO - Division TestCase Passed
+2025-04-27 01:39:52,239 - Appium -INFO - Running TestCase 01 
+2025-04-27 01:39:52,271 - Appium -INFO - Adding Two Number
+2025-04-27 01:39:55,507 - Appium -INFO - Validation of result
+2025-04-27 01:39:55,516 - Appium -INFO - Addition TestCase Passed
+2025-04-27 01:39:55,540 - Appium -INFO - Running TestCase 02 
+2025-04-27 01:39:55,548 - Appium -INFO - Subtraction of Two Number
+2025-04-27 01:39:58,561 - Appium -INFO - Validation of result
+2025-04-27 01:39:58,563 - Appium -INFO - Subtraction TestCase Passed
+2025-04-27 01:39:58,575 - Appium -INFO - Running TestCase 03 
+2025-04-27 01:39:58,582 - Appium -INFO - Muliplication of Two Number
+2025-04-27 01:40:02,091 - Appium -INFO - Validation of result
+2025-04-27 01:40:02,092 - Appium -INFO - Multiplication TestCase Passed
+2025-04-27 01:40:02,109 - Appium -INFO - Running TestCase 04
+2025-04-27 01:40:02,116 - Appium -INFO - Muliplication of Two Number
+2025-04-27 01:40:05,397 - Appium -INFO - Validation of result
+2025-04-27 01:40:05,399 - Appium -INFO - Division TestCase Passed
+2025-04-27 01:42:30,408 - Appium -INFO - Running TestCase 01 
+2025-04-27 01:42:30,478 - Appium -INFO - Adding Two Number
+2025-04-27 01:42:33,693 - Appium -INFO - Validation of result
+2025-04-27 01:42:33,704 - Appium -INFO - Addition TestCase Passed
+2025-04-27 01:42:33,729 - Appium -INFO - Running TestCase 02 
+2025-04-27 01:42:33,734 - Appium -INFO - Subtraction of Two Number
+2025-04-27 01:42:36,853 - Appium -INFO - Validation of result
+2025-04-27 01:42:36,854 - Appium -INFO - Subtraction TestCase Passed
+2025-04-27 01:42:36,869 - Appium -INFO - Running TestCase 03 
+2025-04-27 01:42:36,878 - Appium -INFO - Muliplication of Two Number
+2025-04-27 01:42:40,554 - Appium -INFO - Validation of result
+2025-04-27 01:42:40,555 - Appium -INFO - Multiplication TestCase Passed
+2025-04-27 01:42:40,572 - Appium -INFO - Running TestCase 04
+2025-04-27 01:42:40,581 - Appium -INFO - Muliplication of Two Number
+2025-04-27 01:42:43,862 - Appium -INFO - Validation of result
+2025-04-27 01:42:43,864 - Appium -INFO - Division TestCase Passed
